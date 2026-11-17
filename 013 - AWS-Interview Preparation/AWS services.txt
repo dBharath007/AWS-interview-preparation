@@ -1,0 +1,34 @@
+Alright dB 😄 here are **some commonly used AWS service names** — only the services, clean and simple so you can revise quickly.
+
+* Amazon EC2
+* Amazon S3
+* Amazon EBS
+* Amazon EFS
+* AWS Lambda
+* Amazon VPC
+* AWS IAM
+* Amazon RDS
+* Amazon DynamoDB
+* Amazon Aurora
+* Elastic Load Balancing (ELB)
+* AWS Auto Scaling
+* Amazon CloudWatch
+* AWS CloudTrail
+* AWS Elastic Beanstalk
+* AWS CloudFormation
+* AWS CodeCommit
+* AWS CodeBuild
+* AWS CodeDeploy
+* AWS CodePipeline
+* Amazon Route 53
+* Amazon API Gateway
+* Amazon SNS
+* Amazon SQS
+* Amazon Kinesis
+* AWS Glue
+* Amazon Redshift
+* AWS Snowball
+* AWS Secrets Manager
+* AWS Systems Manager
+
+If you want, dB, I can also give you **100 AWS service names grouped by category** (Compute, Storage, Networking, DevOps, Security). That list is **super useful for interviews** and makes you sound like a cloud pro. ☁️😏
